@@ -1,0 +1,3 @@
+﻿  CPSC335Project2.cpp
+C:\Users\Diego\source\repos\CPSC335Project2\CPSC335Project2\CPSC335Project2.cpp(38,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CPSC335Project2.vcxproj -> C:\Users\Diego\source\repos\CPSC335Project2\x64\Debug\CPSC335Project2.exe

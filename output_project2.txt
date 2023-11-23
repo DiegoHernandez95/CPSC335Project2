@@ -1,0 +1,23 @@
+Exhaustive Search 
+Output: 11
+Output: 9
+Output: 15
+Output: 6
+Output: 19
+Output: 14
+Output: 12
+Output: 10
+Output: 16
+Output: 10
+
+Dynamic Approach 
+Output: 12
+Output: 10
+Output: 15
+Output: 8
+Output: 20
+Output: 16
+Output: 12
+Output: 10
+Output: 18
+Output: 10
